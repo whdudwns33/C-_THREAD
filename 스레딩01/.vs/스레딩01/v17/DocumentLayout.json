@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Dev\\\uC2A4\uB808\uB52901\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev\\\uC2A4\uB808\uB52901\\Test02\\ThreadWithState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test02\\ThreadWithState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev\\\uC2A4\uB808\uB52901\\Test03\\Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test03\\Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dev\\\uC2A4\uB808\uB52901\\Test02\\Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test02\\Example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A7D7519-788F-4DC2-ACEF-0B5E00153EB7}|\uC2A4\uB808\uB52901.csproj|c:\\dev\\\uC2A4\uB808\uB52901\\test03\\threadwithstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7D7519-788F-4DC2-ACEF-0B5E00153EB7}|\uC2A4\uB808\uB52901.csproj|solutionrelative:test03\\threadwithstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Example.cs",
-              "DocumentMoniker": "C:\\Dev\\\uC2A4\uB808\uB52901\\Test02\\Example.cs",
-              "RelativeDocumentMoniker": "Test02\\Example.cs",
-              "ToolTip": "C:\\Dev\\\uC2A4\uB808\uB52901\\Test02\\Example.cs",
-              "RelativeToolTip": "Test02\\Example.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Dev\\\uC2A4\uB808\uB52901\\Test03\\Example.cs",
+              "RelativeDocumentMoniker": "Test03\\Example.cs",
+              "ToolTip": "C:\\Dev\\\uC2A4\uB808\uB52901\\Test03\\Example.cs",
+              "RelativeToolTip": "Test03\\Example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T22:50:54.632Z",
+              "WhenOpened": "2024-10-24T23:05:32.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ThreadWithState.cs",
-              "DocumentMoniker": "C:\\Dev\\\uC2A4\uB808\uB52901\\Test02\\ThreadWithState.cs",
-              "RelativeDocumentMoniker": "Test02\\ThreadWithState.cs",
-              "ToolTip": "C:\\Dev\\\uC2A4\uB808\uB52901\\Test02\\ThreadWithState.cs",
-              "RelativeToolTip": "Test02\\ThreadWithState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Dev\\\uC2A4\uB808\uB52901\\Test03\\ThreadWithState.cs",
+              "RelativeDocumentMoniker": "Test03\\ThreadWithState.cs",
+              "ToolTip": "C:\\Dev\\\uC2A4\uB808\uB52901\\Test03\\ThreadWithState.cs",
+              "RelativeToolTip": "Test03\\ThreadWithState.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvykAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T23:13:20.794Z",
+              "WhenOpened": "2024-10-24T23:04:32.391Z",
               "EditorCaption": ""
             }
           ]
