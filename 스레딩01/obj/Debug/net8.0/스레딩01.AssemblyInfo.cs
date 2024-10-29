@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("스레딩01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c749182870b3ed08fba45fa3e92e339a6bb75da9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62dfcc7727663228847466ea211ed7eccc06e3f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("스레딩01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("스레딩01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

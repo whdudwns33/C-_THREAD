@@ -19,8 +19,10 @@ namespace 스레딩01.Test03
                 );
 
             Thread t = new Thread(new ThreadStart(tws.ThreadProc));
+            // 스레드 실행
             t.Start();
             Console.WriteLine("Main thread does some work, then waits.");
+            // 스레드 JOIN 메서드 
             t.Join();
             Console.WriteLine(
                 "Independent task has completed; main thread ends.");
@@ -34,7 +36,5 @@ namespace 스레딩01.Test03
             Console.WriteLine(
                 "Independent task printed {0} lines.", lineCount);
         }
-
-
     }
 }
